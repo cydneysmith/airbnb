@@ -23,4 +23,3 @@
 SELECT url, accommodates
 FROM listings
 WHERE accommodates >= 16;
--- this output is much bigger than the above answer preview
